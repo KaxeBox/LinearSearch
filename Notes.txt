@@ -1,0 +1,4 @@
+ Worst case: 0(N) ->Linear time
+ Best case:  0(1) ->constant time
+  
+  No auxiliary space
